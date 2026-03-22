@@ -1,0 +1,24 @@
+{
+  "name": "authentication-system",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/amit-kanwal/Authentication_System#readme",
+  "bugs": {
+    "url": "https://github.com/amit-kanwal/Authentication_System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit-kanwal/Authentication_System.git"
+  },
+  "license": "ISC",
+  "author": "\"Amit Singh Kanwal\"",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.3.1"
+  }
+}
